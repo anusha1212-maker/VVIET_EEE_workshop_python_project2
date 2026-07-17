@@ -1,0 +1,20 @@
+# 📄 Universal PDF Merger (Streamlit)
+
+A simple Streamlit app to merge multiple file types into a single PDF.
+
+## ✅ Supported Formats
+- PDF
+- DOCX (Word)
+- Images (JPG, PNG)
+
+## 🚀 Features
+- Upload multiple files
+- Merge into one PDF
+- Download merged file
+- Preview PDF page-by-page
+
+## ▶️ Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
